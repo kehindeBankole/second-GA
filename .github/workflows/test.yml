@@ -45,6 +45,6 @@ jobs:
 
      steps:
        
-       -name: skdk
+       - name: skdk
         run: echo Add other actions to build
      
