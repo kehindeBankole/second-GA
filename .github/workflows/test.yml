@@ -42,9 +42,7 @@ jobs:
   
   deploy:
      runs-on: ubuntu-latest
-
      steps:
-       
        - name: skdk
-        run: echo Add other actions to build
+         run: echo Add other actions to build
      
