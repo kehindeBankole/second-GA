@@ -45,6 +45,6 @@ jobs:
 
      steps:
        
-       -name: console
-        run: console.log(12)
+       -name: skdk
+        run: echo Add other actions to build
      
